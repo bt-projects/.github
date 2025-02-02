@@ -10,3 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+This is my paid projects that i have done.
+
+- **Smile Game** (Django Web Application)
+- **Climbin Pal** (Laravel Web Application)
+- **Simulation Python** (Python Scripts)
+- **RenGen** (React Mobile Application)
+- **JustTweet** (React Tweet Application)
+- **Bagmati Darpan** (Laravel News Portal)
